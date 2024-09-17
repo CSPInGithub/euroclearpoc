@@ -11,3 +11,6 @@ Prerequisites
 Selenium WebDriver
 ChromeDriver
 SpecFlow
+
+What is Acheived
+To verify the title of a page.
