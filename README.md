@@ -1,9 +1,11 @@
-Automation Framework
-Introduction
+**Automation Framework**
+
+
+**Introduction**
 This automation framework facilitates automated testing of web applications using C# and Selenium WebDriver. 
 It supports chrome browser and configurations and is built with SpecFlow for Behavior-Driven Development (BDD).
 
-Features
+**Features**
 Browser Testing: Supports Chrome
 Flexible Configuration: Configurable via config.properties file.
 Prerequisites
@@ -12,5 +14,5 @@ Selenium WebDriver
 ChromeDriver
 SpecFlow
 
-What is Acheived
+**What is Acheived**
 To verify the title of a page.
